@@ -39,7 +39,9 @@ System.Reactive                     |4.0.0}
 
 ## Tested On
 Windows 10 1909
+
 Visual Studio 2019 Community 16.5.1
+
 .NET Framework 4.7.2
 
 
