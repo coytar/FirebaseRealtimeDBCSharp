@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirebaseRealtimeDBCSharp", "FirebaseRealtimeDBCSharp\FirebaseRealtimeDBCSharp.csproj", "{030D0856-B30D-477C-93C6-66EB8F8D6064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{030D0856-B30D-477C-93C6-66EB8F8D6064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{030D0856-B30D-477C-93C6-66EB8F8D6064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{030D0856-B30D-477C-93C6-66EB8F8D6064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{030D0856-B30D-477C-93C6-66EB8F8D6064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {523CBEB8-FCE4-4422-9241-B2DD1D8C41C7}
+	EndGlobalSection
+EndGlobal
